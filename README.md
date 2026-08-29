@@ -18,6 +18,7 @@ Analista de Sistemas na Bit Tech, trabalhando com C#/.NET em sistemas de seguro 
 ### Em destaque
 
 **Ninx** — sistema de gestão comercial distribuído para pequenos varejistas, com foco na digitalização de vendas fiado (crédito informal). Também é o meu projeto de TCC. Construído em C# com ASP.NET Core e SQL Server.
-🔗 [github.com/lists/ninx](https://github.com/stars/maat-aug/lists/ninx)
+
+🔗 [github.com/maat-aug/lists/ninx](https://github.com/stars/maat-aug/lists/ninx)
 
 ---
